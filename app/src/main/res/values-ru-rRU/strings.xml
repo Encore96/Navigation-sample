@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="category_title_general">Основные</string>
+    <string name="header_title_general">Основное</string>
+    <string name="btn_label_copy">Копировать</string>
+    <string name="header_title_device">Об устройстве</string>
+    <string name="title_home">Главная</string>
+    <string name="title_settings">Настройки</string>
+    <string name="title_localization">Локализация</string>
+    <string name="title_other">Другое</string>
+    <string name="title_services">Сервисы</string>
+    <string name="accessibility_navigate_back">Перейти назад</string>
+    <string name="title_feedback">Обратная связь</string>
+    <string name="title_about_app">О приложении</string>
+    <string name="title_regulatory">Правовые документы</string>
+    <string name="title_app_manager">Менеджер ПО</string>
+    <string name="title_update_center">Центр обновлений</string>
+    <string name="btn_label_cancel">Отмена</string>
+    <string name="btn_label_no">Нет</string>
+    <string name="btn_label_yes">Да</string>
+    <string name="promt_exit_app">Вы действительно хотите выйти?</string>
+    <string name="title_dialog_warning">Внимание</string>
+</resources>

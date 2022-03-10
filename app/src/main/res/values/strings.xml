@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name" translatable="false">Flangify</string>
+    <string name="accessibility_navigate_back">Navigate back</string>
+    <string name="btn_label_copy">Copy</string>
+    <string name="category_title_general">General</string>
+    <string name="header_title_general">General</string>
+    <string name="header_title_device">Device info</string>
+    <string name="title_home">Home</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_localization">Localization</string>
+    <string name="title_other">Other</string>
+    <string name="title_services">Services</string>
+    <string name="title_feedback">Feedback</string>
+    <string name="title_about_app">About app</string>
+    <string name="title_regulatory">Regulatory</string>
+    <string name="title_app_manager">App manager</string>
+    <string name="title_update_center">Update center</string>
+    <string name="btn_label_yes">Yes</string>
+    <string name="btn_label_no">No</string>
+    <string name="btn_label_cancel">Cancel</string>
+    <string name="btn_label_ok" translatable="false">OK</string>
+    <string name="promt_exit_app">Are you sure to exit app?</string>
+    <string name="title_dialog_warning">Warning</string>
+</resources>

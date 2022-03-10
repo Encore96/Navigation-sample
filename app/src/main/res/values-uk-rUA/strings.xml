@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btn_label_copy">Копіювати</string>
+    <string name="header_title_general">Основне</string>
+    <string name="category_title_general">Основні</string>
+    <string name="header_title_device">Про пристрій</string>
+    <string name="title_home">Головна</string>
+    <string name="title_settings">Налаштування</string>
+    <string name="title_localization">Локалізація</string>
+    <string name="title_other">Iнше</string>
+    <string name="title_services">Сервіси</string>
+    <string name="accessibility_navigate_back">Перейти назад</string>
+    <string name="title_feedback">Зворотний зв\'язок</string>
+    <string name="title_about_app">Про програму</string>
+    <string name="title_regulatory">Правові документи</string>
+    <string name="title_app_manager">Менеджер ПЗ</string>
+    <string name="title_update_center">Центр оновлень</string>
+    <string name="btn_label_cancel">Скасувати</string>
+    <string name="btn_label_no">Ні</string>
+    <string name="btn_label_yes">Так</string>
+    <string name="promt_exit_app">Ви справді хочете вийти?</string>
+    <string name="title_dialog_warning">Увага</string>
+</resources>
