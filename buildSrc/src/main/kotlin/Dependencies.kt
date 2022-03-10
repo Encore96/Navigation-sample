@@ -1,7 +1,7 @@
 object Dependencies {
     object Compose {
         const val composeVersion = "1.2.0-alpha05"
-        private const val navigationVersion = "2.5.0-alpha02"
+        private const val navigationVersion = "2.5.0-alpha03"
         private const val activityVersion = "1.5.0-alpha03"
 
         const val composeUi = "androidx.compose.ui:ui:$composeVersion"
